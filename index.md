@@ -1,123 +1,69 @@
----
-layout: default
----
+### STUDENT SURVEY PROJECT
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<img src = 'images/>
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+## Project Overview
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+This Power BI project analyzes data from a student survey conducted across various retail stores in the United States. The dataset includes information on how students spend on different categories such as Video games, Indoor games, Toys, Books, Gadgets, etc. The primary goal is to derive meaningful insights based on store location and store setting attributes.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+## Project Deliverables
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Project Deliverables
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# 1. Tabular Visualization:
+  
+- Displays Total Amount of Purchase (TAP) formatted by store location and store setting, with conditional formatting     based on spend ranges
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# 2. Matrix Visualization:
 
-#### Header 4
+- Shows the amount spent on Outdoor sports across different ages and store settings, with color formatting for spend     amounts.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# 3. Funnel Chart:
 
-##### Header 5
+- Illustrates the total amount of purchase by store setting, with data labels represented as percentages.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# 4. Pie Chart:
 
-###### Header 6
+- Presents the total amount of purchase by store location specifically for Suburban store settings, leveraging filter    context.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# 5. Scatter Plot (a):
 
-### There's a horizontal rule below this.
+- Analyzes Video games purchase versus Outdoor sports spending across different age groups.
 
-* * *
+# 6. Sand Dance Plot (b):
 
-### Here is an unordered list:
+- Explores Indoor sports versus Video games spending across different age groups.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+# 7. Data Security:
 
-### And an ordered list:
+- Implements data access restrictions based on user roles defined in a user mapping table, ensuring users only access 
+  data relevant to their designated store setting.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+# 8. Deployment and Automation:
 
-### And a nested list:
+- Publishes the report on Power BI cloud service and designs a Master Dashboard featuring the Funnel chart and scatter   plots.
+- Sets up scheduled refresh for the dashboard to update six times daily, every 4 hours.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+# 9. Q&A Feature:
 
-### Small image
+- Utilizes Power BI's Q&A feature to:
+  - Display the average age of students.
+  - Create a Donut chart showcasing total purchases by store location.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## Project Management
 
-### Large image
+The project involves creating visualizations, applying formatting, implementing security measures, and scheduling    
+data refreshes to ensure up-to-date insights.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Technologies Used
 
+Power BI, Power BI Service (Cloud), DAX (Data Analysis Expressions)
 
-### Definition lists can be used with HTML syntax.
+## Next Steps
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Further enhancements may include additional visualizations or deeper analysis into specific spending patterns or       demographic trends.
