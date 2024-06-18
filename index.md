@@ -9,12 +9,6 @@ This Power BI project analyzes data from a student survey conducted across vario
 
 ## Project Deliverables
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-## Project Deliverables
-
 # 1. Tabular Visualization:
   
 - Displays Total Amount of Purchase (TAP) formatted by store location and store setting, with conditional formatting     based on spend ranges
