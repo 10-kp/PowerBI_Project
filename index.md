@@ -10,35 +10,32 @@ This Power BI project analyzes data from a student survey conducted across vario
 ## Project Deliverables
 
 ### 1. Tabular Visualization:
-  
-- Displays Total Amount of Purchase (TAP) formatted by store location and store setting, with conditional formatting    
-  based on spend ranges
+
+Displays Total Amount of Purchase (TAP) formatted by store location and store setting, with conditional formatting based on spend ranges
 
 ### 2. Matrix Visualization:
 
-- Shows the amount spent on Outdoor sports across different ages and store settings, with color formatting for spend    
-  amounts.
+Shows the amount spent on Outdoor sports across different ages and store settings, with color formatting for spend   amounts.
 
 ### 3. Funnel Chart:
 
-- Illustrates the total amount of purchase by store setting, with data labels represented as percentages.
+Illustrates the total amount of purchase by store setting, with data labels represented as percentages.
 
 ### 4. Pie Chart:
 
-- Presents the total amount of purchase by store location specifically for Suburban store settings, leveraging filter     context.
+Presents the total amount of purchase by store location specifically for Suburban store settings, leveraging filter     context.
 
 ### 5. Scatter Plot (a):
 
-- Analyzes Video games purchase versus Outdoor sports spending across different age groups.
+Analyzes Video games purchase versus Outdoor sports spending across different age groups.
 
 ### 6. Sand Dance Plot (b):
 
-- Explores Indoor sports versus Video games spending across different age groups.
+Explores Indoor sports versus Video games spending across different age groups.
 
 ### 7. Data Security:
 
-- Implements data access restrictions based on user roles defined in a user mapping table, ensuring users only access 
-  data relevant to their designated store setting.
+Implements data access restrictions based on user roles defined in a user mapping table, ensuring users only access data relevant to their designated store setting.
 
 ### 8. Deployment and Automation:
 
