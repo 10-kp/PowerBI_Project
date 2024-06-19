@@ -1,6 +1,6 @@
 # STUDENT SURVEY PROJECT
 
-<img src = 'images/>
+<img src = 'assets/img/PowerBI_Pic_1.png>
 
 
 ## Project Overview
