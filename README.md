@@ -2,6 +2,8 @@
 
 ![PowerBi_Pic_1](https://github.com/10-kp/student_survey/assets/70857174/aacde231-7398-48f7-b647-ce43dd64d1e0)
 
+[View Capstone Project Report](https://app.powerbi.com/groups/2e8fbc67-25a2-4f1a-a0c7-855e79d989a5/reports/1feeb5f8-d553-4b12-a953-a2b1a32fc624/ReportSection?experience=power-bi&ownerId=8647d4d1-04d0-4c1a-8a4f-bf49d3e82ad6&referrer=embed.appsource)
+
 ## Project Overview
 
 This Power BI project analyzes data from a student survey conducted across various retail stores in the United States. The dataset includes information on how students spend on different categories such as Video games, Indoor games, Toys, Books, Gadgets, etc. The primary goal is to derive meaningful insights based on store location and store setting attributes.
