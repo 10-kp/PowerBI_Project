@@ -2,7 +2,20 @@
 
 ![PowerBi_Pic_1](https://github.com/10-kp/student_survey/assets/70857174/aacde231-7398-48f7-b647-ce43dd64d1e0)
 
-[View Capstone Project PDF](Capstone%20Project.pdf) or [Capstone Project.pbix](PowerBI/Capstone%20Project.pbix)
+## Files
+
+- [View Capstone Project PDF](Capstone%20Project.pdf) 
+- [Capstone Project.pbix](PowerBI/Capstone%20Project.pbix)
+
+## Tools and Technologies
+
+- Power BI
+- Data Visualization
+- Business Intelligence
+
+## Usage
+
+To open the `.pbix` file, you need to have Power BI Desktop installed on your computer. You can download it from [Microsoft Power BI](https://powerbi.microsoft.com/).
 
 ## Project Overview
 
