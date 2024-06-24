@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/PowerBI)
+
 # STUDENT SURVEY PROJECT
 
 ![PowerBi_Pic_1](https://github.com/10-kp/student_survey/assets/70857174/aacde231-7398-48f7-b647-ce43dd64d1e0)
